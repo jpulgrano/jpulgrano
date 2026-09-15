@@ -4,6 +4,6 @@
 **jpulgrano/jpulgrano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- I'm working through Angela Yu's, 100 Days of Coding for Python 
-- I'm currently on Day 7 of the syllabus, the "Hangman" exercise
+- I'm working through Angela Yu's, 100 Days of Coding for Python. 
+- I'm currently on working through the syllabus.
 - You can reach me at jpulgrano@gmail.com 
