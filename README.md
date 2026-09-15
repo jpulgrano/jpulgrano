@@ -1,5 +1,4 @@
-## Greetings! I'm transitioning roles from a long career in IT to AI, specifically , AI project management
-## and consulting. 
+## Greetings! I'm transitioning roles from a long career in IT to AI, specifically, AI project management and consulting. 
 
 <!--
 **jpulgrano/jpulgrano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
